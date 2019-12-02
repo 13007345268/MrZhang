@@ -6,3 +6,5 @@ zs  d
 
 
 zs add  1111
+
+zhangshuaide compute
